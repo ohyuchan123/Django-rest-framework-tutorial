@@ -1,1 +1,2 @@
-# Django-rest-framework-tutorial
+# REST framework tutorial
+DRF Practice source code
